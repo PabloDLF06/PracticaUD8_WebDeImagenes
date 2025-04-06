@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a11e7d67-d7f2-49d8-b39c-7df0572f5113)
+
+
 # Práctica UD8: Web de Imágenes
 
 Este proyecto consiste en una web de imágenes desarrollada como parte de la práctica de la Unidad Didáctica 8. La web está construida principalmente con HTML y CSS.
