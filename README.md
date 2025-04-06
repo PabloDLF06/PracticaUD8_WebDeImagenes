@@ -3,11 +3,27 @@
 
 # Práctica UD8: Web de Imágenes
 
-Este proyecto consiste en una web de imágenes desarrollada como parte de la práctica de la Unidad Didáctica 8. La web está construida principalmente con HTML y CSS.
+Este proyecto consiste en la creación de una página web que exhibe diferentes formatos de imágenes (tanto rasterizadas como vectoriales). El objetivo principal de esta práctica es demostrar la correcta implementación de etiquetas HTML para la visualización de imágenes, la elección adecuada de formatos según su función, y el cumplimiento de la futura Ley Europea de Accesibilidad de 2025 (Barrierefreiheitsgesetz o BaFG).
 
 ## Descripción del Proyecto
 
-La web de imágenes permite a los usuarios visualizar una galería de imágenes, con opciones para aumentar, reducir el tamaño y eliminar imágenes. También se puede agregar nuevas imágenes.
+**Contenido:**
+
+La web incluye una sección dedicada a imágenes rasterizadas y otra a imágenes vectoriales. En cada sección, se presentan al menos tres formatos distintos de imágenes, cada una integrada utilizando las etiquetas HTML apropiadas y con un texto alternativo (`alt`) descriptivo para garantizar la accesibilidad.
+
+**Objetivos Cumplidos:**
+
+* **Optimización SEO:** Se ha optimizado el contenido de la web para mejorar su visibilidad en motores de búsqueda, incluyendo la correcta estructuración de encabezados e imágenes.
+* **Uso Adecuado de Formatos:** Se han seleccionado y utilizado diferentes formatos de imagen (rasterizada y vectorial) considerando su función y características.
+* **Cumplimiento de la Ley de Accesibilidad (BaFG):** La implementación de las imágenes se ha realizado teniendo en cuenta los requisitos de accesibilidad, especialmente a través de la correcta utilización del atributo `alt` en las etiquetas `<img>`.
+
+**Puntuación (Según la práctica):**
+
+* [ ] Por cada imagen bien elegida, con su función adecuada (teniendo en cuenta el tipo) y que cumpla la ley (1 punto máximo por imagen).
+* [ ] Por cada etiqueta `alt` bien realizada (0.25 puntos máximo por etiqueta).
+* [ ] Coherencia de la web (1 punto máximo).
+
+Este repositorio contiene el código fuente de la página web desarrollada para esta práctica.
 
 ## Estructura del Proyecto
 
